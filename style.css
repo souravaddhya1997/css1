@@ -1,0 +1,21 @@
+.heading{
+    color: red;
+    font-style: italic;
+}
+.list{
+    color:brown ;
+
+}
+.uline{
+  text-decoration-line:underline;  
+}
+.list1{
+    letter-spacing: 5px;
+    color:brown;
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
